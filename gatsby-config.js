@@ -11,20 +11,20 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Second Year Collection "Meridian"',
         path: '/',
       },
       {
-        label: 'About me',
-        path: '/about/',
+        label: 'Portfolio',
+        path: '/portfolio/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'About / CV',
+        path: '/about/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'JAMES KANIEFSKI',
       email: '#',
       telegram: '#',
       twitter: '#',
