@@ -6,3 +6,16 @@ npm-debug.log
 .gatsby-context.js
 .idea
 gatsby-starter-lumen.iml
+../.DS_Store
+../package-lock.json
+.DS_Store
+assets/.DS_Store
+assets/fonts/.DS_Store
+assets/fonts/fontello-771c82e0/.DS_Store
+assets/scss/.DS_Store
+components/.DS_Store
+pages/.DS_Store
+pages/articles/.DS_Store
+pages/pages/.DS_Store
+pages/pages/2015-05-01---about/.DS_Store
+pages/pages/2015-05-01---contact/.DS_Store

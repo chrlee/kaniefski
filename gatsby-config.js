@@ -4,28 +4,37 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    title: 'James Kaniefski',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+      '',
+    copyright: 'Site by Christian Lee',
     disqusShortname: '',
     menu: [
       {
-        label: 'Second Year Collection "Meridian"',
+        label: 'Second Year Collection',
+        collection: 'Meridian',
         path: '/',
       },
       {
         label: 'Portfolio',
+        collection: '',
         path: '/portfolio/',
       },
       {
         label: 'About / CV',
+        collection: '',
         path: '/about/',
+      },
+      {
+        label: 'Contact',
+        collection: '',
+        path: '/contact/',
       },
     ],
     author: {
       name: 'JAMES KANIEFSKI',
       email: '#',
+      instagram: 'jameskaniefski',
       telegram: '#',
       twitter: '#',
       github: '#',

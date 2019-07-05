@@ -13,13 +13,14 @@ $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
-$typographic-font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$typographic-font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 
 $typographic-root-font-size: 100;
-$typographic-base-font-size: 16px;
-$typographic-small-font-size: 14px;
+$typographic-base-font-size: 14px;
+$typographic-small-font-size: 12px;
+$typographic-smallest-font-size: 11px;
 
-$typographic-base-line-height: 1.625;
+$typographic-base-line-height: 1.4;
 
 $typographic-base-font-color: $color-base;
 $typographic-link-p-font-color: $color-primary;
@@ -32,6 +33,6 @@ $layout-post-single-max-width: 945px;
 $layout-post-single-width: $layout-post-single-max-width - 305px;
 
 $layout-width: 1070px;
-$layout-breakpoint-sm: 685px;
-$layout-breakpoint-md: 960px;
-$layout-breakpoint-lg: 1100px;
+$layout-breakpoint-sm: 720px;
+$layout-breakpoint-md: 1200px;
+$layout-breakpoint-lg: 1800px;

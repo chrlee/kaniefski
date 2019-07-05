@@ -143,11 +143,11 @@ figcaption {
 }
 
 .layout {
-    lost-center: $layout-width;
+    margin: 0;
 }
 
 .content {
-    &__inner {
+    &__inner{
         padding: 25px 20px;
     }
 }
@@ -156,7 +156,6 @@ figcaption {
     figure.float-left,
     figure.float-right {
         max-width: 310px;
-        @include padding(0, 1, 0, 1);
     }
     .float-right {
         float: right;
@@ -165,18 +164,18 @@ figcaption {
         float: left;
     }
     .content {
-        lost-column: 7/12;
+        lost-column: 6/12;
         &__inner {
-            padding: 30px 20px;
+            padding: 70px 0px;
         }
     }
 }
 
 @include breakpoint-md {
     .content {
-        lost-column: 2/3;
+        lost-column: 2/5;
         &__inner {
-            padding: 40px 35px;
+            padding: 70px 35px;
         }
     }
 }

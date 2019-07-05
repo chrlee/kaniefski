@@ -42,11 +42,13 @@ export const pageQuery = graphql`
         copyright
         menu {
           label
+          collection
           path
         }
         author {
           name
           email
+          instagram
           telegram
           twitter
           github

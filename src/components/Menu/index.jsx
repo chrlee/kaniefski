@@ -5,6 +5,8 @@ import './style.scss'
 class Menu extends React.Component {
   render() {
     const menu = this.props.data
+    const collection = (name) => <span>"<i>{name}</i>"</span>;
+    var re = /(["'])(\\?.)*?\1/;
 
     const menuBlock = (
       <ul className="menu__list">
@@ -15,7 +17,7 @@ class Menu extends React.Component {
               className="menu__list-item-link"
               activeClassName="menu__list-item-link menu__list-item-link--active"
             >
-              {item.label}
+              {item.label} <i>{item.collection ? collection(item.collection) : null} </i>
             </Link>
           </li>
         ))}
