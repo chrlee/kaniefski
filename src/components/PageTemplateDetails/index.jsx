@@ -5,6 +5,9 @@ import './style.scss'
 class PageTemplateDetails extends React.Component {
   render() {
     const page = this.props.data.markdownRemark
+    const {
+      copyright
+    } = this.props.data.site.siteMetadata
 
     return (
       <div>
@@ -18,6 +21,7 @@ class PageTemplateDetails extends React.Component {
                 /* eslint-disable-next-line react/no-danger */
                 dangerouslySetInnerHTML={{ __html: page.html }}
               />
+              <p className="page__copyright">{copyright}</p>
             </div>
           </div>
         </div>

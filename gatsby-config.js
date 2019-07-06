@@ -7,7 +7,7 @@ module.exports = {
     title: 'James Kaniefski',
     subtitle:
       '',
-    copyright: 'Site by Christian Lee',
+    copyright: 'Copyright © James Kaniefski 2019. All rights reserved. Site by Christian Lee.',
     disqusShortname: '',
     menu: [
       {

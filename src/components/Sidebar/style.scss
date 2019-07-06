@@ -4,8 +4,10 @@
 .sidebar {
     width: 100%;
     &__inner {
-        position: relative;
+        position: sticky;
         padding: 25px 20px 0;
+        top: 0;
+        bottom: 100%;
     }
     &__author {
         &-photo {
@@ -46,6 +48,7 @@
 @include breakpoint-sm {
     .sidebar {
         lost-column: 3/12;
+        height: inherit;
         &__inner {
             padding: 60px 60px 0px 60px;
         }
@@ -54,6 +57,7 @@
 
 @include breakpoint-md {
     .sidebar {
+        height: 1000vh;
         lost-column: 1/5;
         &__inner {
             padding: 60px;

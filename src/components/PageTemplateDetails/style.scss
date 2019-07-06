@@ -8,11 +8,15 @@
         font-weight: bold;
         @include line-height(2);
         @include margin-top(0);
-        @include margin-bottom(1.45);
+        @include margin-bottom(0);
     }
     &__body {
         font-size: $typographic-small-font-size;
         @include line-height(1);
         @include margin(0, 0, 1);
+    }
+    &__copyright {
+        font-size: $typographic-smallest-font-size;
+        color: #a5a5a5;
     }
 }
