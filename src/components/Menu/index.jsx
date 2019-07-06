@@ -16,7 +16,8 @@ class Menu extends React.Component {
               className="menu__list-item-link"
               activeClassName="menu__list-item-link menu__list-item-link--active"
             >
-              {item.label} <i>{item.collection ? item.collection : null} </i>
+              {item.label} <br />
+              <i>{item.collection ? item.collection : null} </i>
             </Link>
           </li>
         ))}
