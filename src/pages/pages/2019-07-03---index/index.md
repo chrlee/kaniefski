@@ -30,7 +30,6 @@ Cormac McCarthy's 1985 novel *Blood Meridian, or The Evening Redness in the Wes
 ![Meridian_12](./meridian12.jpg)  
 
 References  
-<br></br>
 Dacus, Chris. "The West as Symbol of the Eschaton in Cormac McCarthy". 2009.  
 Daugherty, Leo. "Gravers False and True: Blood Meridian as Gnostic Tragedy". 1999.  
 Eggers, Robert. *The Witch*. 2015.  
