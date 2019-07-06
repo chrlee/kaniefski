@@ -3,7 +3,7 @@ title: "Second Year Collection"
 layout: page
 path: "/"
 ---
-##### ***Meridian***  
+###### ***Meridian***  
 
    
 ​"War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."  
