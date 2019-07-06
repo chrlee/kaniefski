@@ -1,13 +1,51 @@
 ---
-title: "About me"
+title: "About"
 layout: page
 path: "/about"
 ---
+James Kaniefski, Fashion Designer  
+Based in New York, NY  
+<kaniefskijb@gmail.com>  
+**[View Resume](https://drive.google.com/file/d/1_fc67VkRhHIteh7zrup6ypizKbZCpYU7/view?usp=sharing)**  
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+**Education**
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+Parsons School of Design - New York, NY  
+Fashion Design BFA  
+Class of 2021  
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Eugene Lang College of Liberal Arts - New York, NY  
+Fashion Design BFA  
+Class of 2021  
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Parsons School of Design - New York, NY  
+Fine Arts Minor  
+Class of 2021  
+
+Falls Church High School - Falls Church, VA  
+Diploma  
+Class of 2016
+
+**Experience**
+
+Kozaburo - New York, NY  
+Fashion Design Intern  
+May 2019 - Present  
+
+Parsons School of Design - New York, NY  
+Sewing Technician  
+March 2019 - Present  
+
+Nordstrom - Tysons, VA  
+Floor Salesman  
+June 2018 - August 2018
+
+**Awards**
+
+Fashion Design BFA Portfolio Scholarship  
+Parsons School of Design  
+Fall 2016 - Present  
+
+Dean's List  
+Parsons School of Design  
+Fall 2016 - Present
