@@ -6,7 +6,7 @@
     &__title {
         font-size: $typographic-small-font-size;
         font-weight: bold;
-        @include line-height(2);
+        @include line-height(1);
         @include margin-top(0);
         @include margin-bottom(0);
     }

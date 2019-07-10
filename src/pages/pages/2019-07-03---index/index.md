@@ -6,11 +6,9 @@ path: "/"
 ###### ***Meridian***  
 
    
-​"War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."  
-​  
-​-Cormac McCarthy, *Blood Meridian, or The Evening Redness in the West* 
-​  
-​<br></br>
+​"War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."
+​<span style="text-align: right; display: block">-Cormac McCarthy, *Blood Meridian, or The Evening Redness in the West*</span>
+
 Cormac McCarthy's 1985 novel *Blood Meridian, or The Evening Redness in the West* follows the Glanton Gang, a group of mercenaries contracted by the Mexican government to hunt Native Americans in 1849. The "Meridian" collection frames the thematic dichotomies of the novel within the psychological theory of Sigmund Freud. Starved from civilization on the eschatological American frontier, the Superego is suppressed and the carnal Id overcomes.
 ​  
 ​  
