@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: md, jsx
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
