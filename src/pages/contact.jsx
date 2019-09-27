@@ -20,7 +20,7 @@ class ContactRoute extends React.Component {
                 <h1 className="page__title">Contact</h1>
                 <div className="page__body">
                   <div className="categories">
-                    <form name="contact" netlify>
+                    <form name="contact" method="POST" data-netlify="true">
                       <p>
                         <label>Name <br /><input type="text" name="name" /></label>
                       </p>
