@@ -22,13 +22,13 @@ class ContactRoute extends React.Component {
                   <div className="categories">
                     <form name="contact" netlify>
                       <p>
-                        <label>Name <input type="text" name="name" /></label>
+                        <label>Name <br /><input type="text" name="name" /></label>
                       </p>
                       <p>
-                        <label>Email <input type="email" name="email" /></label>
+                        <label>Email <br /><input type="email" name="email" /></label>
                       </p>
                       <p>
-                        <label>Message <textarea name="message"></textarea></label>
+                        <label>Message <br /><textarea name="message"></textarea></label>
                       </p>
                       <p>
                         <button type="submit">Send</button>
