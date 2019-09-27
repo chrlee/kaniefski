@@ -20,7 +20,10 @@ class ContactRoute extends React.Component {
                 <h1 className="page__title">Contact</h1>
                 <div className="page__body">
                   <div className="categories">
-                    <form name="contact" method="POST" data-netlify="true">
+                    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                      <p class="hidden">
+                        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                      </p>
                       <p>
                         <label>Name <br /><input type="text" name="name" /></label>
                       </p>
