@@ -16,11 +16,6 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'Collection 01',
-        collection: 'Armored',
-        path: '/armored/',
-      },
-      {
         label: 'Portfolio',
         collection: '',
         path: '/portfolio/',
