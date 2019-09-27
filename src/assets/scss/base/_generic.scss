@@ -68,7 +68,7 @@ h6 {
     font-weight: bold;
     @include line-height(1);
     @include margin-top(0);
-    @include margin-bottom(2);
+    @include margin-bottom(1);
 }
 
 img {
@@ -177,7 +177,7 @@ figcaption {
     .content {
         lost-column: 2/5;
         &__inner {
-            padding: 65px 35px;
+            padding: 77px 35px;
         }
     }
 }

@@ -8,9 +8,9 @@
         padding: 0;
         margin: 0;
         &-item {
+            @include margin(0, 0, 0.1, 0);
             display: list-item;
             padding: 0;
-            margin: 0;
             &-link {
                 font-size: $typographic-small-font-size;
                 color: $typographic-base-font-color;

@@ -3,7 +3,7 @@
 
 .links {
     @include margin-bottom(1);
-    @include margin-top(2);
+    @include margin-top(1);
     &__list {
         list-style: none;
         padding: 0;

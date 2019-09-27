@@ -5,39 +5,35 @@ import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import Sidebar from '../components/Sidebar'
 
-class CategoriesRoute extends React.Component {
+class ContactRoute extends React.Component {
   render() {
     const { title } = this.props.data.site.siteMetadata
-    const categories = this.props.data.allMarkdownRemark.group
 
     return (
       <Layout>
         <div>
-          <Helmet title={`All Categories - ${title}`} />
+          <Helmet title={`Contact Me - ${title}`} />
           <Sidebar {...this.props} />
           <div className="content">
             <div className="content__inner">
               <div className="page">
-                <h1 className="page__title">Categories</h1>
+                <h1 className="page__title">Contact</h1>
                 <div className="page__body">
                   <div className="categories">
-                    <ul className="categories__list">
-                      {categories.map(category => (
-                        <li
-                          key={category.fieldValue}
-                          className="categories__list-item"
-                        >
-                          <Link
-                            to={`/categories/${kebabCase(
-                              category.fieldValue
-                            )}/`}
-                            className="categories__list-item-link"
-                          >
-                            {category.fieldValue} ({category.totalCount})
-                          </Link>
-                        </li>
-                      ))}
-                    </ul>
+                    <form name="contact" netlify>
+                      <p>
+                        <label>Name <input type="text" name="name" /></label>
+                      </p>
+                      <p>
+                        <label>Email <input type="email" name="email" /></label>
+                      </p>
+                      <p>
+                        <label>Message <textarea name="message"></textarea></label>
+                      </p>
+                      <p>
+                        <button type="submit">Send</button>
+                      </p>
+                    </form>
                   </div>
                 </div>
               </div>
@@ -49,7 +45,7 @@ class CategoriesRoute extends React.Component {
   }
 }
 
-export default CategoriesRoute
+export default ContactRoute
 
 export const pageQuery = graphql`
   query CategoryesQuery {
