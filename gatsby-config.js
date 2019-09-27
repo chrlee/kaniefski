@@ -18,7 +18,7 @@ module.exports = {
       {
         label: 'Collection 01',
         collection: 'Armored',
-        path: '/',
+        path: '/armored/',
       },
       {
         label: 'Portfolio',
