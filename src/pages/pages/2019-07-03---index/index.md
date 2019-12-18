@@ -1,7 +1,7 @@
 ---
 title: Second Year Collection
 layout: page
-path: "/"
+path: "/meridian"
 
 ---
 ###### **_Meridian_**
