@@ -11,7 +11,7 @@ Based in New York, NY
 
 **Experience**
 
-Occhii- New York, NY  
+Occhii - New York, NY  
 Freelance Patternmaker  
 December 2019 - Present
 
