@@ -1,5 +1,5 @@
 ---
-title: 2019-12-08--husks
+title: Fall 2019 Collection
 layout: page
 path: "/"
 
