@@ -1,5 +1,5 @@
 ---
-title: Second Year Collection
+title: Spring 2019 Collection
 layout: page
 path: "/meridian"
 
