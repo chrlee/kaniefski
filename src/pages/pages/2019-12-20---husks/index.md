@@ -10,7 +10,21 @@ The Southern Gothic of literary tradition has ceased to exist. No longer do Amer
 
 Structured menswear silhouettes are fabricated in formidable workwear materials—heavyweight linen, smoke black cotton moleskin, and plum brown wool twill. A traditional four pocket barn coat is recreated with a tailored silhouette and vertical welt pockets. Shirts constructed with exaggerated volume deliberately imitate the outsized clothing donned by farmers for strictly utilitarian needs. Darts and articulated detailing lend an heir of futurist sleekness to contemporary workwear styles. An array of scarves, blankets, and folklore adornments ground the clothing in the tradition of the American south. It is the uniform of a near-future laborer who will never exist
 
-![](/uploads/Fall2019Shoot_FINAL (47)-1.jpg)![](/uploads/Fall2019Shoot_FINAL (41).jpg)![](/uploads/Fall2019Shoot_FINAL (7).jpg)![](/uploads/Fall2019Shoot_FINAL (26).jpg)![](/uploads/Fall2019Shoot_FINAL (39)-1.jpg)![](/uploads/Fall2019Shoot_FINAL (45)-1.jpg)![](/uploads/Fall2019Shoot_FINAL (15).jpg)![](/uploads/Fall2019Shoot_FINAL (17).jpg)![](/uploads/Fall2019Shoot_FINAL (16).jpg)![](/uploads/Fall2019Shoot_FINAL (18).jpg)![](/uploads/Fall2019Shoot_FINAL (13).jpg)![](/uploads/Fall2019Shoot_FINAL (36).jpg)![](/uploads/Fall2019Shoot_FINAL (31).jpg)![](/uploads/Fall2019Shoot_FINAL (24).jpg)![](/uploads/Fall2019Shoot_FINAL (10).jpg)
+![](./Fall2019Shoot_FINAL 1.jpg)
+![](./Fall2019Shoot_FINAL 2.jpg)
+![](/./Fall2019Shoot_FINAL 3.jpg)
+![](./Fall2019Shoot_FINAL 4.jpg)
+![](./Fall2019Shoot_FINAL 5.jpg)
+![](./Fall2019Shoot_FINAL 6.jpg)
+![](./Fall2019Shoot_FINAL 7.jpg)
+![](./Fall2019Shoot_FINAL 8.jpg)
+![](./Fall2019Shoot_FINAL 9.jpg)
+![](./Fall2019Shoot_FINAL 10.jpg)
+![](./Fall2019Shoot_FINAL 11.jpg)
+![](./Fall2019Shoot_FINAL 12.jpg)
+![](./Fall2019Shoot_FINAL 13.jpg)
+![](./Fall2019Shoot_FINAL 14.jpg)
+![](./Fall2019Shoot_FINAL 15.jpg)
 
 References
 Evans, Walker. _America_. 1991.

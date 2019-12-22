@@ -11,14 +11,14 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Second Year Collection',
-        collection: 'Meridian',
+        label: 'Fall 2019',
+        collection: 'Husks',
         path: '/',
       },
       {
-        label: 'Portfolio',
-        collection: '',
-        path: '/portfolio/',
+        label: 'Spring 2019',
+        collection: 'Meridian',
+        path: '/meridian/',
       },
       {
         label: 'About / CV',
