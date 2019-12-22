@@ -11,5 +11,3 @@ fields:
 - type: text
   name: path
   label: path
-pages:
-- src/pages/pages/fall-2019-collection-husks.md
