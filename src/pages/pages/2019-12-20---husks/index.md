@@ -40,19 +40,6 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](./Fall2019Shoot_FINAL 15.jpg)
 
-References
-Evans, Walker. _America_. 1991.
-Hawbaker, Stanley. Trapping North American Furbearers. 1974.
-Kidd, Stuart. _Farm Security Administration photography, the rural South, and the dynamics of image-making, 1935-1943._ 2004.
-Lange, Dorothea. _Dorothea Lange: American Photographs._ 1994
-Mortom, Julia and Schatzberg, Jerry. _Women Then: Photographs 1954-1969._ 2010.
-Nickerson, Jackie. _Farm_. 2002.
-Nickerson, Jackie. _Terrain_. 2013
-Olian, JoAnne. _Everyday Fashions of the Sixties As Pictured in Sears Catalogs._ 1999
-Penn, Irving. _Small Trades._ 2009.
-Steinmetz, Mark. _South Central._ 2006.
-Webb, Ian R. _Foale and Tuffin: The Sixties : a Decade in Fashion._ 2009.
-
 References  
 Evans, Walker. _America_. 1991.  
 Hawbaker, Stanley. Trapping North American Furbearers. 1974.  
@@ -61,8 +48,8 @@ Lange, Dorothea. _Dorothea Lange: American Photographs._ 1994
 Mortom, Julia and Schatzberg, Jerry. _Women Then: Photographs 1954-1969._ 2010.  
 Nickerson, Jackie. _Farm_. 2002.  
 Olian, JoAnne. _Everyday Fashions of the Sixties As Pictured in Sears Catalogs._ 1999
-Penn, Irving. _Small Trades._ 2009. 
-Steinmetz, Mark. _South Central._ 2006. 
+Penn, Irving. _Small Trades._ 2009.
+Steinmetz, Mark. _South Central._ 2006.
 Webb, Ian R. _Foale and Tuffin: The Sixties : a Decade in Fashion._ 2009.
 
 Photography: Montis Songsombat  
