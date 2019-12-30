@@ -42,7 +42,7 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 References  
 Evans, Walker. _America_. 1991.  
-Hawbaker, Stanley. Trapping North American Furbearers. 1974.  
+Hawbaker, Stanley. _Trapping North American Furbearers._ 1974.  
 Kidd, Stuart. _Farm Security Administration photography, the rural South, and the dynamics of image-making, 1935-1943._ 2004.  
 Lange, Dorothea. _Dorothea Lange: American Photographs._ 1994  
 Mortom, Julia and Schatzberg, Jerry. _Women Then: Photographs 1954-1969._ 2010.  
