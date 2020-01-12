@@ -40,6 +40,8 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](./Fall2019Shoot_FINAL 15.jpg)
 
+![](/uploads/Campaign Book 9x123.jpg)
+
 References  
 Evans, Walker. _America_. 1991.  
 Hawbaker, Stanley. _Trapping North American Furbearers._ 1974.  
