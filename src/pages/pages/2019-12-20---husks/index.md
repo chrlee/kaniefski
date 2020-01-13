@@ -4,7 +4,7 @@ layout: page
 path: "/"
 
 ---
-###### **_Husks_**
+    Husks
 
 The Southern Gothic of literary tradition has ceased to exist. No longer do American southerners die at the hands of crops which refuse them fruit. They now face a second industrial revolution with the rise of automation. Farming jobs are rapidly disappearing as those who work with their hands are replaced by automated machinery. Combines and tractors lumber steadily through fields and there are no drivers at the wheel. There are no eyes to see and no hands to steer. Farmers are alienated from their labor. The work eclipses the worker.
 
@@ -18,9 +18,15 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](./Fall2019Shoot_FINAL 4.jpg)
 
+![](/uploads/Campaign Book 9x123.jpg)
+
 ![](./Fall2019Shoot_FINAL 5.jpg)
 
 ![](./Fall2019Shoot_FINAL 6.jpg)
+
+![](/uploads/Campaign Book 9x12.jpg)
+
+![](/uploads/Campaign Book 9x126.jpg)
 
 ![](./Fall2019Shoot_FINAL 7.jpg)
 
@@ -30,6 +36,10 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](./Fall2019Shoot_FINAL 10.jpg)
 
+![](/uploads/Campaign Book 9x125.jpg)
+
+![](/uploads/Campaign Book 9x122.jpg)
+
 ![](./Fall2019Shoot_FINAL 11.jpg)
 
 ![](./Fall2019Shoot_FINAL 12.jpg)
@@ -38,9 +48,9 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](./Fall2019Shoot_FINAL 14.jpg)
 
-![](./Fall2019Shoot_FINAL 15.jpg)
+![](/uploads/Campaign Book 9x128.jpg)
 
-![](/uploads/Campaign Book 9x123.jpg)
+![](./Fall2019Shoot_FINAL 15.jpg)
 
 References  
 Evans, Walker. _America_. 1991.  
