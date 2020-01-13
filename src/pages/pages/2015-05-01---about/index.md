@@ -7,7 +7,7 @@ path: "/about"
 James Kaniefski, Fashion Designer  
 Based in New York, NY  
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
-[**View Resume**](https://drive.google.com/file/d/1_fc67VkRhHIteh7zrup6ypizKbZCpYU7/view?usp=sharing)
+[**View Resume**](https://drive.google.com/file/d/168gL-Z3YHDKkhA7HC0T0rEtZKC5XP-M2/view?usp=sharing)
 
 **Experience**
 
