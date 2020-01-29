@@ -39,7 +39,7 @@ export const pageQuery = graphql`
           twitter
         }
         disqusShortname
-        url
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
