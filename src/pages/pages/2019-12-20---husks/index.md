@@ -66,5 +66,4 @@ Webb, Ian R. _Foale and Tuffin: The Sixties : a Decade in Fashion._ 2009.
 
 Photography: Montis Songsombat  
 Models: Kamal Adisa, Geoffrey Hunt, Matthew Kaufman  
-Styling: Chloe Ferguson  
 Visual Direction: James Kaniefski
