@@ -5,6 +5,12 @@ import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import Sidebar from '../components/Sidebar'
 
+const encode = data => {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+    .join('&')
+}
+
 class ContactRoute extends React.Component {
   render() {
     const { title } = this.props.data.site.siteMetadata
@@ -21,7 +27,8 @@ class ContactRoute extends React.Component {
                 <div className="page__body">
                   <div className="categories">
                     <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-                      <p class="hidden" style={{ display: 'none' }}>
+                      <input type="hidden" name="form-name" value="contact" />
+                      <p type="hidden" style={{ display: 'none' }}>
                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                       </p>
                       <p>
