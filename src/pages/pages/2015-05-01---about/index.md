@@ -4,6 +4,8 @@ layout: page
 path: "/about"
 
 ---
+![](/uploads/HEADSHOT.jpg)
+
 James Kaniefski, Fashion Designer  
 Based in New York, NY  
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
