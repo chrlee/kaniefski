@@ -26,23 +26,23 @@ PARSONS SCHOOL OF DESIGN - New York, NY
 Sewing Technician  
 March 2019 - May 2019
 
-Nordstrom - Tysons, VA  
+NORDSTROM - Tysons, VA  
 Commission Sales  
 June 2018 - August 2018
 
 **EDUCATION**
 
-Parsons School of Design - New York, NY  
+PARSONS SCHOOL OF DESIGN - New York, NY  
 Fashion Design BFA  
 Class of 2021  
 GPA: 3.87
 
 **AWARDS**
 
-Fashion Design BFA Portfolio Scholarship  
+FASHION PORTFOLIO SCHOLARSHIP  
 Parsons School of Design  
 Fall 2016 - Present
 
-Dean's List  
+DEAN'S LIST  
 Parsons School of Design  
 Fall 2016 - Present
