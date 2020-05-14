@@ -10,37 +10,37 @@ New York, NY
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
 [**View Resume**](https://drive.google.com/file/d/168gL-Z3YHDKkhA7HC0T0rEtZKC5XP-M2/view?usp=sharing)
 
-**EXPERIENCE**
+**Experience**
 
-OCCHII- New York, NY  
+Occhii- New York, NY  
 Freelance Patternmaker  
 December 2019
 
-KOZABURO - New York, NY  
+Kozaburo- New York, NY  
 Fashion Design Intern  
 May 2019 - August 2019
 
-PARSONS SCHOOL OF DESIGN - New York, NY  
+Parsons School of Design - New York, NY  
 Sewing Technician  
 March 2019 - May 2019
 
-NORDSTROM - Tysons, VA  
+Nordstrom - Tysons, VA  
 Commission Sales  
 June 2018 - August 2018
 
-**EDUCATION**
+**Education**
 
-PARSONS SCHOOL OF DESIGN - New York, NY  
+Parsons School of Design - New York, NY  
 Fashion Design BFA  
 Class of 2021  
 GPA: 3.87
 
-**AWARDS**
+**Awards**
 
-FASHION PORTFOLIO SCHOLARSHIP  
+Fashion Portfolio Scholarship  
 Parsons School of Design  
 Fall 2016 - Present
 
-DEAN'S LIST  
+Dean's List  
 Parsons School of Design  
 Fall 2016 - Present
