@@ -51,6 +51,13 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static`,
+        name: 'img',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-feed',
       options: {
         query: `

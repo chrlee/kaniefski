@@ -12,7 +12,7 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](./Fall2019Shoot_FINAL 1.jpg)
 
-![](./Fall2019Shoot_FINAL 2.jpg)
+![](/img/husks/Fall2019Shoot_FINAL 2.jpg)
 
 ![](/./Fall2019Shoot_FINAL 3.jpg)
 
