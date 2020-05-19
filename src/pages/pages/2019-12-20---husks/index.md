@@ -10,47 +10,11 @@ The Southern Gothic of literary tradition has ceased to exist. No longer do Amer
 
 Structured menswear silhouettes are fabricated in formidable workwear materials—heavyweight linen, smoke black cotton moleskin, and plum brown wool twill. A traditional four pocket barn coat is recreated with a tailored silhouette and vertical welt pockets. Shirts constructed with exaggerated volume deliberately imitate the outsized clothing donned by farmers for strictly utilitarian needs. Darts and articulated detailing lend an heir of futurist sleekness to contemporary workwear styles. An array of scarves, blankets, and folklore adornments ground the clothing in the tradition of the American south. It is the uniform of a near-future laborer who will never exist.
 
-![](./Fall2019Shoot_FINAL 1.jpg)
+![](/img/husks/Fall2019Shoot_FINAL 11.jpg)![](/img/husks/Fall2019Shoot_FINAL 1.jpg)![](/img/process.jpg)![](/img/husks/Fall2019Shoot_FINAL 2.jpg)![](/img/fall2019shoot_final-42.jpg)
 
-![](/img/husks/Fall2019Shoot_FINAL 2.jpg)
+![](/img/husks/Fall2019Shoot_FINAL 4.jpg)![](/img/husks/Fall2019Shoot_FINAL 14.jpg)![](/img/process4.jpg)
 
-![](/./Fall2019Shoot_FINAL 3.jpg)
-
-![](./Fall2019Shoot_FINAL 4.jpg)
-
-![](./Campaign Book 9x123.jpg)
-
-![](./Fall2019Shoot_FINAL 5.jpg)
-
-![](./Fall2019Shoot_FINAL 6.jpg)
-
-![](./Campaign Book 9x12.jpg)
-
-![](./Campaign Book 9x126.jpg)
-
-![](./Fall2019Shoot_FINAL 7.jpg)
-
-![](./Fall2019Shoot_FINAL 8.jpg)
-
-![](./Fall2019Shoot_FINAL 9.jpg)
-
-![](./Fall2019Shoot_FINAL 10.jpg)
-
-![](./Campaign Book 9x125.jpg)
-
-![](./Campaign Book 9x122.jpg)
-
-![](./Fall2019Shoot_FINAL 11.jpg)
-
-![](./Fall2019Shoot_FINAL 12.jpg)
-
-![](./Fall2019Shoot_FINAL 13.jpg)
-
-![](./Fall2019Shoot_FINAL 14.jpg)
-
-![](./Campaign Book 9x128.jpg)
-
-![](./Fall2019Shoot_FINAL 15.jpg)
+![](/img/fall2019shoot_final-6.jpg)![](/img/husks/Fall2019Shoot_FINAL 3.jpg)![](/img/process2.jpg)![](/img/process3.jpg)![](/img/husks/Fall2019Shoot_FINAL 10.jpg)![](/img/husks/Fall2019Shoot_FINAL 9.jpg)![](/img/husks/Fall2019Shoot_FINAL 8.jpg)![](/img/husks/Fall2019Shoot_FINAL 7.jpg)![](/img/process6.jpg)![](/img/husks/Fall2019Shoot_FINAL 15.jpg)
 
 References  
 Evans, Walker. _America_. 1991.  
