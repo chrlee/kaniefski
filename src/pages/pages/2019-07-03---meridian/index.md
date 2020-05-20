@@ -13,23 +13,13 @@ Cormac McCarthy's 1985 novel _Blood Meridian, or The Evening Redness in the Wes
 ​  
 ​A double shouldered tailored jacket a pinstripe wool suiting exaggerates the silhouette, summoning the towering menace of McCarthy's Judge Holden---an archon---the manifestation of Freud's Id. Knee length chaps are cinched tightly over a pair of charcoal gray wool trousers, each leg engraved with an inverted cross seam; the shape of the crucifixion of Saint Peter. A military shirt is reduced to a pattern of only six pieces and reinforced with dramatically contrasting flat felled seams, some magnified in proportion and others eliminated completely from the construction through asymmetrical cutting techniques. A long sleeved knit top is contorted by curved and elongated seams. Winding coverstitch detailing in contrasting white thread descends the torso and arms; the tracks of an expedition, the borders of an expanding nation.
 
-![Meridian](./meridian1.jpg)  
-![Meridian](./meridian2.jpg)  
-![Meridian](./meridian3.jpg)  
-![Meridian](./meridian4.jpg)  
-![Meridian](./meridian5.jpg)  
-![Meridian](./meridian6.jpg)  
-![Meridian](./meridian7.jpg)  
-![Meridian](./meridian8.jpg)  
-![Meridian](./meridian9.jpg)  
-![Meridian](./meridian10.jpg)  
-![Meridian](./meridian11.jpg)  
-![Meridian](./meridian12.jpg)
+![](/img/meridian/meridian1.jpg)
+
+![](/img/meridian/meridian9.jpg)![](/img/meridian/meridian8.jpg)![](/img/meridian/meridian7.jpg)![](/img/meridian/meridian6.jpg)![](/img/meridian/meridian5.jpg)![](/img/meridian/meridian4.jpg)![](/img/meridian/meridian3.jpg)![](/img/meridian/meridian2.jpg)![](/img/meridian/meridian11.jpg)![](/img/meridian/meridian10.jpg)![](/img/meridian/meridian12.jpg)
 
 References  
 Dacus, Chris. "The West as Symbol of the Eschaton in Cormac McCarthy". 2009.  
 Daugherty, Leo. "Gravers False and True: Blood Meridian as Gnostic Tragedy". 1999.  
-Eggers, Robert. _The Witch_. 2015.  
 Freud, Sigmund. _The Ego and the Id_. 1923.  
 Freud, Sigmund. _Beyond the Pleasure Principle_. 1920.  
 James, M.R. _The Apocryphal New Testament_. 1925.  
