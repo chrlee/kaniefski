@@ -19,3 +19,5 @@ pages/articles/.DS_Store
 pages/pages/.DS_Store
 pages/pages/2015-05-01---about/.DS_Store
 pages/pages/2015-05-01---contact/.DS_Store
+# Local Netlify folder
+.netlify

@@ -121,6 +121,7 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 960,
+              backgroundColor: 'transparent',
             },
           },
           {
@@ -130,6 +131,7 @@ module.exports = {
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
+          'gatsby-remark-images-anywhere',
         ],
       },
     },
