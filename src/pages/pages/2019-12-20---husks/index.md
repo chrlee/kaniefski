@@ -12,10 +12,9 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](/img/husks/Fall2019Shoot_FINAL 11.jpg)
 
-<p float="left">
-  ![](/img/husks/Fall2019Shoot_FINAL 1.jpg)
-  ![](/img/process.jpg)
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+!![](/img/husks/Fall2019Shoot_FINAL 1.jpg)  |  ![](/img/process.jpg)
 
 ![](/img/husks/Fall2019Shoot_FINAL 2.jpg)
 
