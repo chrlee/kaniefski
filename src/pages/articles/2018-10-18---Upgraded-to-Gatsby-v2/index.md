@@ -5,9 +5,6 @@ layout: post
 draft: false
 path: "/posts/upgraded-to-gatsby-v2/"
 category: "Gatsby"
-tags:
-  - "Gatsby"
-  - "Web Development"
 description: "This starter has been forked and upgraded to Gatsby v2"
 ---
 

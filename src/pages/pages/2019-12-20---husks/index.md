@@ -1,6 +1,7 @@
 ---
 title: Fall 2019 Collection
 layout: page
+category: page
 path: "/"
 
 ---

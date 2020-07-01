@@ -118,10 +118,12 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-images',
+            resolve: 'gatsby-remark-images-anywhere',
             options: {
+              staticDir: 'static',
               maxWidth: 960,
               backgroundColor: 'transparent',
+              quality: 90,
             },
           },
           {
@@ -131,7 +133,6 @@ module.exports = {
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
-          'gatsby-remark-images-anywhere',
         ],
       },
     },

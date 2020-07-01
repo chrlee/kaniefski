@@ -1,6 +1,7 @@
 ---
 title: Spring 2019 Collection
 layout: page
+category: page
 path: "/meridian"
 
 ---

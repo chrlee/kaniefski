@@ -22,7 +22,6 @@ exports.createPages = ({ graphql, actions }) => {
                 slug
               }
               frontmatter {
-                tags
                 layout
                 category
               }
@@ -31,12 +30,13 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     `).then(result => {
-      if (result.errors) {
+      if (result.error) {
         console.log(result.errors)
         reject(result.errors)
       }
 
       _.each(result.data.allMarkdownRemark.edges, edge => {
+        console.log(_.get(edge, 'node'))
         if (_.get(edge, 'node.frontmatter.layout') === 'page') {
           createPage({
             path: edge.node.fields.slug,

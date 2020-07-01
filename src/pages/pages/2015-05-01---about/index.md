@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+category: page
 path: "/about"
 
 ---
