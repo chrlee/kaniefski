@@ -12,11 +12,11 @@ New York, NY
 
 **Experience**
 
-Occhii- New York, NY  
+Occhii - New York, NY  
 Freelance Patternmaker  
 December 2019
 
-Kozaburo- New York, NY  
+Kozaburo - New York, NY  
 Fashion Design Intern  
 May 2019 - August 2019
 
