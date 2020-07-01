@@ -11,39 +11,22 @@ The Southern Gothic of literary tradition has ceased to exist. No longer do Amer
 Structured menswear silhouettes are fabricated in formidable workwear materials—heavyweight linen, smoke black cotton moleskin, and plum brown wool twill. A traditional four pocket barn coat is recreated with a tailored silhouette and vertical welt pockets. Shirts constructed with exaggerated volume deliberately imitate the outsized clothing donned by farmers for strictly utilitarian needs. Darts and articulated detailing lend an heir of futurist sleekness to contemporary workwear styles. An array of scarves, blankets, and folklore adornments ground the clothing in the tradition of the American south. It is the uniform of a near-future laborer who will never exist.
 
 ![](/img/husks/Fall2019Shoot_FINAL 11.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 1.jpg)**&#13;&#10;**
-
 ![](/img/process.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 2.jpg)**&#13;&#10;**
-
 ![](/img/fall2019shoot_final-42.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 4.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 14.jpg)**&#13;&#10;**
-
 ![](/img/process4.jpg)**&#13;&#10;**
-
 ![](/img/fall2019shoot_final-6.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 3.jpg)**&#13;&#10;**
-
 ![](/img/process2.jpg)**&#13;&#10;**
-
 ![](/img/process3.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 10.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 9.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 8.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 7.jpg)**&#13;&#10;**
-
 ![](/img/process6.jpg)**&#13;&#10;**
-
 ![](/img/husks/Fall2019Shoot_FINAL 15.jpg)
 
 References  
