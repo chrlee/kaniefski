@@ -5,7 +5,7 @@ category: page
 path: "/"
 
 ---
-###### Husks
+<center> ###### Husks </center>
 
 The Southern Gothic of literary tradition has ceased to exist. No longer do American southerners die at the hands of crops which refuse them fruit. They now face a second industrial revolution with the rise of automation. Farming jobs are rapidly disappearing as those who work with their hands are replaced by automated machinery. Combines and tractors lumber steadily through fields and there are no drivers at the wheel. There are no eyes to see and no hands to steer. Farmers are alienated from their labor. The work eclipses the worker.
 
@@ -13,54 +13,37 @@ Structured menswear silhouettes are fabricated in formidable workwear materialsâ
 
 ![](/img/husks/Fall2019Shoot_FINAL 11.jpg)
 
-
 ![](/img/husks/Fall2019Shoot_FINAL 1.jpg)
-
 
 ![](/img/process.jpg)
 
-
 ![](/img/husks/Fall2019Shoot_FINAL 2.jpg)
-
 
 ![](/img/fall2019shoot_final-42.jpg)
 
-
 ![](/img/husks/Fall2019Shoot_FINAL 4.jpg)
-
 
 ![](/img/husks/Fall2019Shoot_FINAL 14.jpg)
 
-
 ![](/img/process4.jpg)
-
 
 ![](/img/fall2019shoot_final-6.jpg)
 
-
 ![](/img/husks/Fall2019Shoot_FINAL 3.jpg)
-
 
 ![](/img/process2.jpg)
 
-
 ![](/img/process3.jpg)
-
 
 ![](/img/husks/Fall2019Shoot_FINAL 10.jpg)
 
-
 ![](/img/husks/Fall2019Shoot_FINAL 9.jpg)
-
 
 ![](/img/husks/Fall2019Shoot_FINAL 8.jpg)
 
-
 ![](/img/husks/Fall2019Shoot_FINAL 7.jpg)
 
-
 ![](/img/process6.jpg)
-
 
 ![](/img/husks/Fall2019Shoot_FINAL 15.jpg)
 
