@@ -7,7 +7,7 @@ path: "/"
 ---
 <div align="center">
 
-###### Husks
+###### **_Husks_**
 
 <div align="left">
 
