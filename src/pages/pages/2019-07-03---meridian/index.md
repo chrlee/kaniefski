@@ -9,6 +9,8 @@ path: "/meridian"
 
 ###### **_Meridian_**
 
+<div align="left">
+
 ​"War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."
 ​<span style="text-align: right; display: block">-Cormac McCarthy, _Blood Meridian, or The Evening Redness in the West_</span>
 
