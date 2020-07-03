@@ -5,6 +5,8 @@ category: page
 path: "/meridian"
 
 ---
+<div align="center">
+
 ###### **_Meridian_**
 
 ​"War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."
