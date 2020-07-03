@@ -5,7 +5,9 @@ category: page
 path: "/"
 
 ---
-<center> ###### Husks </center>
+###### <center>
+Husks
+</center>
 
 The Southern Gothic of literary tradition has ceased to exist. No longer do American southerners die at the hands of crops which refuse them fruit. They now face a second industrial revolution with the rise of automation. Farming jobs are rapidly disappearing as those who work with their hands are replaced by automated machinery. Combines and tractors lumber steadily through fields and there are no drivers at the wheel. There are no eyes to see and no hands to steer. Farmers are alienated from their labor. The work eclipses the worker.
 
