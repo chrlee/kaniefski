@@ -5,7 +5,7 @@ category: page
 path: "/"
 
 ---
-    <div align="center">
+<div align="center">
 
 ###### Husks
 
