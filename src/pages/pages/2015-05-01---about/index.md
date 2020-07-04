@@ -6,6 +6,7 @@ path: "/about"
 
 ---
 <div align="center">
+
 ![](/img/headshot_scale.jpg)
 <div align="left">
 
