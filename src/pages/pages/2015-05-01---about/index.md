@@ -7,7 +7,7 @@ path: "/about"
 ---
 <div align="center">
 
-<img src="/img/headshot_scale.jpg" width="450">
+![headshot](/img/headshot_scale.jpg){:height="600px" width="450px"}.
   
 <div align="left">
 
