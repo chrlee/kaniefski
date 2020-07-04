@@ -8,6 +8,8 @@ path: "/about"
 <div align="center">
 
 ![Headshot](/img/headshot_scale.jpg){:height="600px" width="450px"}
+
+T
   
 <div align="left">
 
