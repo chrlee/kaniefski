@@ -7,7 +7,7 @@ path: "/about"
 ---
 <div align="center">
 
-![](/img/headshot.jpg)
+![](/img/headshot_sized.jpg)
 
 <div align="left">
 
