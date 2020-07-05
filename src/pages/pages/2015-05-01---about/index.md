@@ -13,7 +13,7 @@ path: "/about"
 
 New York, NY  
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
-[**View Resume**](https://drive.google.com/file/d/1_Euo7ttYohqvL7KXAxp05if58rStUTlI/view?usp=sharing)
+[**View Resume**](https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf)
 
 **Experience**
 
