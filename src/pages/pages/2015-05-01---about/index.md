@@ -21,6 +21,8 @@ New York, NY
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
 <a href="https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf" target="_blank">**View Resume**</a>
 
+  &nbsp;
+  
 **Experience**
 
 Occhii - New York, NY  
@@ -39,6 +41,8 @@ Nordstrom - Tysons, VA
 Commission Sales  
 June 2018 - August 2018
 
+  &nbsp;
+  
 **Education**
 
 Parsons School of Design - New York, NY  
@@ -46,6 +50,8 @@ Fashion Design BFA
 Class of 2021  
 GPA: 3.87
 
+  &nbsp;
+  
 **Awards**
 
 Fashion Portfolio Scholarship  
