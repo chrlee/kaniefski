@@ -7,7 +7,7 @@ path: "/"
 ---
 <div align="center">
 
-###### **_Husks_**
+###### Fall 2019 / Husks
 
 <div align="left">
 
