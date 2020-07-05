@@ -9,7 +9,7 @@ path: "/about"
 
 <div style="width:50%; height:50%">
 
-![](/img/headshot_scale.jpg)
+![James Kaniefski, 2019](/img/headshot_scale.jpg)
 
 </div>
 
