@@ -14,6 +14,7 @@ path: "/about"
 
 <div align="left">
 
+<div></div>
   
 **James Kaniefski** is an American fashion designer whose work explores the history, culture, and clothing of the southern United States. Born in Southwest Virginia and raised on a rural farm, James views his home region through the thematic and tonal lens of Southern Gothic literature. He takes inspiration from the contradictory and multifaceted nature of the region, acknowledging both its significant beauty and its many issues. His designs investigate the lives of people who are rarely considered relevant in fashion discourse such as farmers, truckers, hunters, and preachers. His design practice revolves around patternmaking, viewing construction and detailing as the most important symbolic language in fashion design.
 
