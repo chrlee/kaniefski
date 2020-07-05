@@ -7,7 +7,7 @@ path: "/meridian"
 ---
 <div align="center">
 
-###### **_Meridian_**
+###### Spring 2019 / Meridian
 
 <div align="left">
 
