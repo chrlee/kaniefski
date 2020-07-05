@@ -6,9 +6,11 @@ path: "/about"
 
 ---
 <div align="center">
-  
+
 <div style="width:450px; height:600px">
-![James Kaniefski](/img/headshot_scale.jpg)
+
+![](/img/headshot_scale.jpg)
+
 </div>
 
 <div align="left">
