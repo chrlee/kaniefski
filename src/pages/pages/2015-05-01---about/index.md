@@ -20,7 +20,7 @@ img[src~="/img/headshot_scale.jpg"] {
 
 New York, NY  
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
-[**View Resume**](https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf){:target="_blank"}
+[**View Resume**](https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf)
 
 **Experience**
 
