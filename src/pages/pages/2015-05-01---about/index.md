@@ -5,7 +5,9 @@ category: page
 path: "/about"
 
 ---
-<div align="center" style="width:300px; height:400px">
+<div align="center">
+
+<style="max-width:50%">
 
 ![](/img/headshot_scale.jpg)
 
