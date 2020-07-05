@@ -21,16 +21,27 @@ Cormac McCarthy's 1985 novel _Blood Meridian, or The Evening Redness in the Wes
 &nbsp;
 
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian1.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian9.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian8.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian7.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian6.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian5.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian4.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian3.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian2.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian11.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian10.jpg)
+  
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian12.jpg)
 
 References  
