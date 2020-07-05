@@ -7,7 +7,7 @@ path: "/about"
 ---
 <div align="center">
 
-<style="max-width:50%">
+<style="width:300px; height:400px">
 
 ![](/img/headshot_scale.jpg)
 
