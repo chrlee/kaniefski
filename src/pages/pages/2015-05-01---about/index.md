@@ -17,8 +17,6 @@ path: "/about"
 
 New York, NY  
 [kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
-[**View Resume**](https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf)
-  
 <a href="https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf" target="_blank">**View Resume**</a>
 
 **Experience**
