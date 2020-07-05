@@ -9,8 +9,10 @@ path: "/about"
 
 ![James Kaniefski](/img/headshot_scale.jpg)
   
-<img src="/img/headshot_scale.jpg" alt="James Kaniefski"
-	title="James Kaniefski" width="450" height="600" />
+img[src~="/img/headshot_scale.jpg"] {
+   width:150px;
+   height:100px;
+}
 
 <div align="left">
 
