@@ -15,8 +15,6 @@ The Southern Gothic of literary tradition has ceased to exist. No longer do Amer
 
 Structured menswear silhouettes are fabricated in formidable workwear materials—heavyweight linen, smoke black cotton moleskin, and plum brown wool twill. A traditional four pocket barn coat is recreated with a tailored silhouette and vertical welt pockets. Shirts constructed with exaggerated volume deliberately imitate the outsized clothing donned by farmers for strictly utilitarian needs. Darts and articulated detailing lend an heir of futurist sleekness to contemporary workwear styles. An array of scarves, blankets, and symbolic adornments ground the clothing in the folkloric tradition of the American South. It is the uniform of a near-future laborer who will never exist.
 
- 
-
 ![James Kaniefski, Fall 2019 / Husks](/img/husks/Fall2019Shoot_FINAL 11.jpg)
 
 ![James Kaniefski, Fall 2019 / Husks](/img/husks/Fall2019Shoot_FINAL 1.jpg)
