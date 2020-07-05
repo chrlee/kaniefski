@@ -52,8 +52,8 @@ GPA: 3.87
 
 Fashion Portfolio Scholarship  
 Parsons School of Design  
-Fall 2016 - Present
+Fall 2017 - Present
 
 Dean's List  
 Parsons School of Design  
-Fall 2016 - Present
+Fall 2017 - Present
