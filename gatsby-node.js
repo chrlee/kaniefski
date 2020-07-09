@@ -36,7 +36,6 @@ exports.createPages = ({ graphql, actions }) => {
       }
 
       _.each(result.data.allMarkdownRemark.edges, edge => {
-        console.log(_.get(edge, 'node'))
         if (_.get(edge, 'node.frontmatter.layout') === 'page') {
           createPage({
             path: edge.node.fields.slug,
