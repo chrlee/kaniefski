@@ -11,7 +11,7 @@ path: "/about"
 
 <div style="width:50%; height:50%">
 
-![James Kaniefski, 2019](/img/headshot_scale.jpg)
+![James Kaniefski, 2019](https://app.forestry.io/sites/vl4f7cfoo1coxa/body-media//img/headshot_scale.jpg)
 
 </div>
 
@@ -28,18 +28,22 @@ New York, NY
 Occhii - New York, NY  
 Freelance Patternmaker  
 December 2019
+Worked with the designers to create patterns and develop and document through fittings. Delivered finalized patterns and tech packs for production.
 
 Kozaburo - New York, NY  
-Fashion Design Intern  
+Design Intern  
 May 2019 - August 2019
+Assisted the designer with design development, collection research, prototyping, sample making, pattern making, and showroom preparation.
 
 Parsons School of Design - New York, NY  
 Sewing Technician  
 March 2019 - May 2019
+Operated and maintained a variety of specialty and standard sewing machines and equipment.
 
 Nordstrom - Tysons, VA  
 Commission Sales  
 June 2018 - August 2018
+Worked as a floor salesperson styling customers and assisting them in selecting items and pulling them from the stock room.
 
 **Education**
 
