@@ -7,7 +7,7 @@ path: "/about"
 ---
 <div align="center">
 
-About
+**About**
 
 <div style="width:50%; height:50%">
 
