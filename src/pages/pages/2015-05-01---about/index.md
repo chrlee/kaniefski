@@ -7,6 +7,8 @@ path: "/about"
 ---
 <div align="center">
 
+About
+
 <div style="width:50%; height:50%">
 
 ![James Kaniefski, 2019](/img/headshot_scale.jpg)
