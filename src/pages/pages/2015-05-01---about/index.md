@@ -19,27 +19,25 @@ path: "/about"
 
 **James Kaniefski** is an American fashion designer whose work explores the history, culture, and clothing of the southern American South. Born in Southwest Virginia and raised on a rural farm, James views his home region through the thematic and tonal lens of Southern Gothic literature. He takes inspiration from the contradictory and multifaceted nature of the region, acknowledging both its significant beauty and its many issues. His designs investigate the lives of people who are rarely considered relevant in fashion discourse such as farmers, truckers, hunters, and preachers. His design practice revolves around patternmaking, viewing construction, and detailing as the most important symbolic language in fashion design.
 
-New York, NY  
-[kaniefskijb@gmail.com](mailto:kaniefskijb@gmail.com)  
-<a href="https://www.jameskaniefski.com/img/jameskaniefski_resume.pdf" target="_blank">**View Resume**</a>
+New York, NY
 
 **Experience**
 
 Occhii - New York, NY  
 Freelance Patternmaker  
-December 2019  
+December 2019
 
 Kozaburo - New York, NY  
 Design Intern  
-May 2019 - August 2019  
+May 2019 - August 2019
 
 Parsons School of Design - New York, NY  
 Sewing Technician  
-March 2019 - May 2019  
+March 2019 - May 2019
 
 Nordstrom - Tysons, VA  
 Commission Sales  
-June 2018 - August 2018  
+June 2018 - August 2018
 
 **Education**
 
