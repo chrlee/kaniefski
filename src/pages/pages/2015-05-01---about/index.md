@@ -21,7 +21,7 @@ path: "/about"
 
 **Experience**
 
-Freelance- New York, NY  
+Freelance - New York, NY  
 Patternmaker  
 July 2019 - Present
 
