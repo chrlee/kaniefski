@@ -41,6 +41,8 @@ Kozaburo - New York, NY
 Design Assistant (Internship)  
 May 2019 - August 2019
 
+</div>
+
 **Education**
 
 Parsons School of Design - New York, NY  
