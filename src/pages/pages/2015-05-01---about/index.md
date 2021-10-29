@@ -11,7 +11,7 @@ path: "/about"
 
 <div style="width:50%; height:50%">
 
-![](/img/241864604_1234483243719108_1753869247741286163_n.jpg)
+![](/img/james-kaniefski-about.jpg)
 
 </div>
 
