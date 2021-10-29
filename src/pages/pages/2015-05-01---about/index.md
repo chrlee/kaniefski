@@ -11,45 +11,38 @@ path: "/about"
 
 <div style="width:50%; height:50%">
 
-![James Kaniefski, 2019](https://app.forestry.io/sites/vl4f7cfoo1coxa/body-media//img/headshot_scale.jpg)
+![](/img/241864604_1234483243719108_1753869247741286163_n.jpg)
 
 </div>
 
 <div align="left">
 
-**James Kaniefski** is an American fashion designer whose work explores the history, culture, and clothing of the southern American South. Born in Southwest Virginia and raised on a farm, James views his home region through the thematic and tonal lens of Southern Gothic literature. He takes inspiration from the contradictory and multifaceted nature of the region, acknowledging both its significant beauty and its many issues. His designs investigate the lives of people who are rarely considered relevant in fashion discourse such as farmers, truckers, hunters, and preachers. His design practice revolves around patternmaking, viewing construction, and detailing as the most important symbolic language in fashion design.
+**James Kaniefski** is an American fashion designer from Louisa County, Virginia. He is currently based in New York City.
 
 **Experience**
 
+Freelance- New York, NY  
+Patternmaker  
+July 2019 - Present
+
+Proenza Schouler - New York, NY  
+Patternmaking Assistant (Internship)  
+June 2021 - July 2021
+
+The Row - New York, NY  
+Design Assistant (Internship)  
+October 2020 - December 2020
+
 Occhii - New York, NY  
-Freelance Patternmaker  
+Patternmaker (Freelance)  
 December 2019
 
 Kozaburo - New York, NY  
-Design Intern  
+Design Assistant (Internship)  
 May 2019 - August 2019
-
-Parsons School of Design - New York, NY  
-Sewing Technician  
-March 2019 - May 2019
-
-Nordstrom - Tysons, VA  
-Commission Sales  
-June 2018 - August 2018
 
 **Education**
 
 Parsons School of Design - New York, NY  
 Fashion Design BFA  
-Class of 2021  
-GPA: 3.87
-
-**Awards**
-
-Fashion Portfolio Scholarship  
-Parsons School of Design  
-Fall 2017 - Present
-
-Dean's List  
-Parsons School of Design  
-Fall 2017 - Present
+Class of 2022
