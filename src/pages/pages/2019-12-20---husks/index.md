@@ -1,5 +1,5 @@
 ---
-title: Fall 2019 Collection
+title: Husks
 layout: page
 category: page
 path: "/"
@@ -7,7 +7,7 @@ path: "/"
 ---
 <div align="center">
 
-###### Fall 2019 / Husks
+###### _Husks_
 
 <div align="left">
 

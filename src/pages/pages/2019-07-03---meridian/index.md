@@ -1,5 +1,5 @@
 ---
-title: Spring 2019 Collection
+title: Meridian
 layout: page
 category: page
 path: "/meridian"
@@ -7,7 +7,7 @@ path: "/meridian"
 ---
 <div align="center">
 
-###### Spring 2019 / Meridian
+###### _Meridian_
 
 <div align="left">
 
@@ -19,27 +19,27 @@ Cormac McCarthy's 1985 novel _Blood Meridian, or The Evening Redness in the Wes
 ​A double shouldered tailored jacket a pinstripe wool suiting exaggerates the silhouette, summoning the towering menace of McCarthy's Judge Holden---an archon---the manifestation of Freud's Id. Knee length chaps are cinched tightly over a pair of charcoal gray wool trousers, each leg engraved with an inverted cross seam; the shape of the crucifixion of Saint Peter. A military shirt is reduced to a pattern of only six pieces and reinforced with dramatically contrasting flat felled seams, some magnified in proportion and others eliminated completely from the construction through asymmetrical cutting techniques. A long sleeved knit top is contorted by curved and elongated seams. Winding coverstitch detailing in contrasting white thread descends the torso and arms; the tracks of an expedition, the borders of an expanding nation.
 
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian1.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian9.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian8.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian7.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian6.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian5.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian4.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian3.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian2.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian11.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian10.jpg)
-  
+
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian12.jpg)
 
 References  
