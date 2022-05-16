@@ -5,9 +5,7 @@ category: page
 path: "/meridian"
 
 ---
-<div align="center">
-
-###### _Meridian_
+_Meridian_
 
 <div align="left">
 
