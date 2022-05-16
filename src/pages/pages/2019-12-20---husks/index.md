@@ -5,11 +5,9 @@ category: page
 path: "/"
 
 ---
-<div align="center">
+_Husks_
 
-###### _Husks_
-
-<div align="left">
+###### <div align="left">
 
 No longer do American farmers die at the hands of crops that refuse them fruit. They now face a second industrial revolution with the rise of automation. Farming jobs are rapidly disappearing as those who work with their hands are replaced by automated machinery.
 
