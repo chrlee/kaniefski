@@ -44,14 +44,6 @@ src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/PQg6J6ce_A4 "h
 
 ![James Kaniefski, Spring 2019 / Meridian](/img/meridian/meridian12.jpg)
 
-References  
-Dacus, Chris. "The West as Symbol of the Eschaton in Cormac McCarthy". 2009.  
-Daugherty, Leo. "Gravers False and True: Blood Meridian as Gnostic Tragedy". 1999.  
-Freud, Sigmund. _The Ego and the Id_. 1923.  
-Freud, Sigmund. _Beyond the Pleasure Principle_. 1920.  
-James, M.R. _The Apocryphal New Testament_. 1925.  
-McCarthy, Cormac. _Blood Meridian, Or, The Evening Redness in the West_. 1985.
-
 Visual Direction: James Kaniefski  
 Model: Jack Pekarsky  
 Assistance: Geoffrey Hunt
