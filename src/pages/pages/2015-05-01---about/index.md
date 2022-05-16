@@ -17,9 +17,9 @@ path: "/about"
 
 <div align="left">
 
-**James Kaniefski** is an American fashion designer from Louisa County, Virginia. He is currently based in New York City.
+James Kaniefski is an American fashion designer from Louisa County, Virginia. He is currently based in New York City.
 
-**Experience**
+EXPERIENCE
 
 Freelance - New York, NY  
 Patternmaker  
@@ -41,7 +41,7 @@ Kozaburo - New York, NY
 Design Assistant (Internship)  
 May 2019 - August 2019
 
-**Education**
+EDUCATION
 
 Parsons School of Design - New York, NY  
 Fashion Design BFA  
