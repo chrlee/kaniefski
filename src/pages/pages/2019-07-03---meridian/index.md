@@ -14,7 +14,7 @@ _Meridian_
 
 ​A double-shouldered tailored jacket in pinstripe wool suiting exaggerates the silhouette, summoning the towering menace of an archon---the manifestation of Freud's Id. Knee-length chaps are cinched tightly over a pair of charcoal gray wool trousers, each leg etching with cross seaming. A military shirt is reduced to a pattern of only six pieces and reinforced with contrasting flat-felled seams, some magnified in proportion and others eliminated completely from the construction. A long-sleeved knit top is contorted by curved and elongated seams. Winding coverstitch detailing in contrasting white thread descends the torso and arms; the tracks of an expedition, the borders of an expanding nation.
 
-<iframe width="420" height="315"src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="420" height="315"src="https://www.youtube.com/embed/[PQg6J6ce_A4](https://youtu.be/PQg6J6ce_A4)">
 
 </iframe>
 
